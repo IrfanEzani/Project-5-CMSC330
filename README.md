@@ -1,4 +1,4 @@
-# Target Locator using Min-heap Priority Queue
+# Target Identifier
 Creates an array-based min heap. Three key functionalities are implemented:
 - Enqueue 
 - Dequeue
